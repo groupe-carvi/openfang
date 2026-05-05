@@ -1,0 +1,16 @@
+name: openfang
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/9d23febf-0f5a-4923-b630-e2963c3fd9c5
+description: Open-source Agent Operating System
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/openfang
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
